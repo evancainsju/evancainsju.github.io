@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Orbitron);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 
 .col-md-1 {
   border-left: 1px solid black;
@@ -14,6 +15,7 @@
 
 h1 {
   color: dodgerblue;
+  font-family: 'Pacifico', cursive;
 }
 
 
@@ -29,7 +31,7 @@ p {
 
 
 .navbar-nav {
-  padding-left: 50px;
+  padding-left: 35px;
   margin-top: 50px;
   margin-bottom: 50px;
   margin-left: 375px;
