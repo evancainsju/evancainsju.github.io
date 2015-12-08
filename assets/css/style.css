@@ -53,3 +53,9 @@ a {
   color: white;
   font-family: 'Orbitron', sans-serif;
 }
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  color: firebrick;
+  text-decoration: underline;
+}
