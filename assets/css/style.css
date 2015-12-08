@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:600);
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -28,7 +30,8 @@ p {
 
 .navbar-nav {
   padding-left: 80px;
-  margin-top: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   margin-left: 375px;
   width: 400px;
   border: 5px dashed firebrick;
@@ -39,4 +42,5 @@ p {
 
 a {
   color: white;
+  font-family: 'Titillium Web', sans-serif;
 }
