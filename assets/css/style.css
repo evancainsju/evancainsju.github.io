@@ -8,6 +8,7 @@
 }
 
 #header {
+  text-align: center;
   background-color: white;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -16,6 +17,7 @@
 h1 {
   color: dodgerblue;
   font-family: 'Pacifico', cursive;
+  font-size: 80px;
 }
 
 
@@ -31,7 +33,7 @@ p {
 
 
 .navbar-nav {
-  padding-left: 35px;
+  padding-left: 50px;
   margin-top: 50px;
   margin-bottom: 50px;
   margin-left: 375px;
