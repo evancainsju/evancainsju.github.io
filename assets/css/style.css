@@ -4,17 +4,12 @@
   height: 1080px;
 }
 
-.navbar-nav {
-  margin-left: 300px;
-
-}
-
 #header {
-  background-color: blue;
+  background-color: white;
 }
 
 h1 {
-  color: white;
+  color: blue;
 }
 
 
@@ -23,5 +18,10 @@ p {
 }
 
 #menu {
-  background-color: red;
+  background-color: blue;
+  border: 2px dashed red;
+}
+
+#menu li {
+
 }
