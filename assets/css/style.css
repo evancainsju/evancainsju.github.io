@@ -26,4 +26,6 @@ p {
 .navbar-nav {
   width: 400px;
   padding: 15px;
+  border: 5px dashed red;
+  text-align: center;
 }
