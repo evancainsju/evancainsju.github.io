@@ -27,11 +27,13 @@ p {
 
 
 .navbar-nav {
+  margin-left: 450px;
   width: 400px;
   padding: 15px;
   border: 5px dashed firebrick;
   text-align: center;
   background-color: dodgerblue;
+
 }
 
 a {
