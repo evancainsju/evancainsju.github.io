@@ -27,7 +27,8 @@ p {
 
 
 .navbar-nav {
-  margin-left: 450px;
+  padding-left: 15px;
+  margin-left: 375px;
   width: 400px;
   padding: 15px;
   border: 5px dashed firebrick;
