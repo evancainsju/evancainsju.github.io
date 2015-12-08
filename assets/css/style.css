@@ -7,3 +7,11 @@
 li.ul {
   display: inline;
 }
+
+#header {
+  background-color: blue;
+}
+
+h1 {
+  color: white;
+}
