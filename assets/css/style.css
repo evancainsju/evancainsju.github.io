@@ -19,9 +19,9 @@ p {
 
 #menu {
   background-color: blue;
-  border: 2px dashed red;
+  border: 4px dashed red;
 }
 
 #menu li {
-
+  display: inline-block;
 }
