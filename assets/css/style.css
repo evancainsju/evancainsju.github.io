@@ -6,6 +6,8 @@
 
 #header {
   background-color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 h1 {
@@ -20,6 +22,7 @@ p {
 
 #menu li {
   display: inline-block;
+  color: white;
 }
 
 
@@ -28,4 +31,5 @@ p {
   padding: 15px;
   border: 5px dashed red;
   text-align: center;
+  background-color: dodgerblue;
 }
