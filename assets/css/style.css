@@ -3,8 +3,7 @@
   border-right: 1px solid black;
   height: 1080px;
 }
-
-li.ul {
+li .navbar-nav {
   display: inline;
   padding-left: 200px;
   padding-right: 200px;
@@ -21,4 +20,8 @@ h1 {
 
 p {
   margin-top: 10px;
+}
+
+#menu {
+  background-color: red;
 }
